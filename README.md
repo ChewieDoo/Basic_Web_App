@@ -2,7 +2,7 @@
 
 ### Objective
 
-Create a basic user authentication app using Flask.  The website allows users to create accounts, log into their account, utilize a basic note app once they are logged in.  
+Create a basic user authentication app using Flask.  The website allows users to create accounts, log into their account, utilize a basic note app once logged in.  The back-end is built with Python and Flask framework.  The front-end uses HTML and CSS bootstrapping.  This little project taught me basic concepts in web development:front-end-back-end, databases, integrations, HTML templates.
 
 ### Files
 `main.py` creates the web application and running the file runs the webpage.
